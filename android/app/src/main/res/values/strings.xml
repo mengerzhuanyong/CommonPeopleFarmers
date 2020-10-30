@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CommonPeopleFarmers</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">Ey_D6kLR9T2v6G8VqyZuLKOjwSsxftNi0nFzwS</string>
+</resources>
